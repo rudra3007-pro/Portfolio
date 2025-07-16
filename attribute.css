@@ -55,6 +55,14 @@
   margin: 56px 0;
   display: flex;
 }
+.secondSection .box1 {
+  background: white;
+  width: 88vw;
+  height: 2px;
+  margin: 56px 0;
+  display: flex;
+  gap: 121px;
+}
 .secondSection .vertical {
   height: 90px;
   width: 2px;
@@ -74,6 +82,12 @@
 }
 .vertical-desc {
   font-size: 12px;
+  display: block;
+  margin-left: -22px;
+  width: 185px;
+}
+.vertical-desc1 {
+  font-size: 17px;
   display: block;
   margin-left: -22px;
   width: 185px;

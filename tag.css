@@ -49,3 +49,12 @@
         margin-bottom: 22px;
         margin-top: 22px;
       }
+      div ul a{
+        color: white;
+        font-family: "Poppins", sans-serif; 
+      }
+      div ul a:hover{
+        color: aquamarine;
+        font-size: 50;
+        font-size: 1.05rem;
+      }

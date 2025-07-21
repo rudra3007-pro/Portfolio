@@ -63,6 +63,14 @@
   display: flex;
   gap: 121px;
 }
+.secondSection .box1h {
+  background: white;
+  width: 30vw;
+  height: 2px;
+  margin: 56px 0;
+  display: flex;
+  gap: 121px;
+}
 .secondSection .vertical {
   height: 90px;
   width: 2px;
@@ -80,6 +88,13 @@
   font-size: 20px;
   color: #bd6cbd;
 }
+.vertical-titleh {
+  margin-top: 40px;
+  margin-left: -22px;
+  font-size: 20px;
+  color: #bd6cbd;
+  width: 249px;
+}
 .vertical-desc {
   font-size: 12px;
   display: block;
@@ -89,13 +104,19 @@
 .vertical-desc1 {
   font-size: 17px;
   display: block;
-  margin-left: -22px;
+  margin-left: -20px;
   width: 185px;
+}
+.vertical-desc1h {
+  font-size: 17px;
+  display: block;
+  margin-left: -20px;
+  width: 296px;
 }
 
 .footer {
   display: flex;
-  margin-top: 485px;
+  margin-top: 448px;
   justify-content: space-evenly;
 }
 .buttons {
